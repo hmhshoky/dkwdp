@@ -1,2 +1,2 @@
 # dkwdp
-Der kleine Weg des Programmierens
+Der kleine Weg des Programmierens :)
